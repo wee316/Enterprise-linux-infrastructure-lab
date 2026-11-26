@@ -1,2 +1,22 @@
 # Enterprise-linux-infrastructure-lab
-A multi-server enterprise environment built with Ubuntu and VirtualBox featuring routing, NAT, DNS, ZFS, NFS, and Nginx services.
+Enterprise Linux Infrastructure Lab
+Overview
+This project simulates a small enterprise environment using Ubuntu virtual machines hosted in VirtualBox.
+
+The infrastructure includes:
+
+Routing and NAT
+DNS using Bind9
+ZFS storage
+NFS file sharing
+Nginx web hosting
+Multi-network communication
+Technologies
+Ubuntu Server
+Ubuntu Desktop
+VirtualBox
+Bind9
+Nginx
+ZFS
+NFS
+Network Architecture
